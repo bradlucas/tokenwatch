@@ -1,0 +1,11 @@
+.idea
+env/*
+*.pyc
+notes.txt
+*.zip
+*.csv
+*.txt
+*.log
+data/*
+.DS_Store
+
